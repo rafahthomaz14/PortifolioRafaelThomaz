@@ -8,7 +8,7 @@ export default function Formacao() {
                 alt=""
                 className="fixed top-0 right-0 z-0 pointer-events-none opacity-4"
             />
-            <h1 className="text-4xl font-bold p-5">Formação Acadêmica</h1>
+            <h1 className="text-2xl lg:text-4xl font-bold p-5">Formação Acadêmica</h1>
             <div className="p-6">
                 <div className="space-y-1">
                     <h4 className="text-lg leading-none font-medium">Tecnologia da Informação</h4>
@@ -59,7 +59,7 @@ export default function Formacao() {
                     <div>Concluido - 01/2022 à 06/2023</div>
                 </div>
             </div>
-            <h1 className="text-4xl font-bold p-5 mt-5">Cursos Complementares</h1>
+            <h1 className="text-2xl lg:text-4xl font-bold p-5 mt-5">Cursos Complementares</h1>
 
         </>
 
