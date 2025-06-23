@@ -24,11 +24,11 @@ const data = {
       items: [
         {
           title: "Apresentação",
-          url: "#apresentacao"
+          url: "/"
         },
         {
           title: "Formação Acadêmica",
-          url: "#formacao",
+          url: "Formacao",
         },
         {
           title: "Tecnologias",
