@@ -24,26 +24,26 @@ const data = {
       items: [
         {
           title: "Apresentação",
-          url: "#pausa"
+          url: "#apresentacao"
         },
         {
           title: "Formação Acadêmica",
-          url: "#",
+          url: "#formacao",
         },
         {
           title: "Tecnologias",
-          url: "#",
+          url: "#tecnologia",
         },
         {
           title: "Contato",
-          url: "#",
+          url: "#contato",
         },
       ],
     },
 
     {
       title: "Meus Projetos",
-      url: "#",
+      url: "#projetos",
       items: [
         {
           title: "Landing Page MRE",
