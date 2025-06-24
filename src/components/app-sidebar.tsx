@@ -30,10 +30,11 @@ const data = {
     },
     {
       title: "Meus Projetos",
-      url: "#projetos",
+      url: "/Projetos",
       items: [
-        { title: "Landing Page MRE", url: "#" },
-        { title: "Landing Page Hortifruti", url: "#" },
+        { title: "Todos os Projetos", url: "/Projetos" },
+        { title: "Deploy Landing Page MRE", url: "https://mresolucoes.vercel.app/" },
+        { title: "Deploy Page Hortifruti", url: "https://hortifruti2024.netlify.app/" },
       ],
     },
   ],
