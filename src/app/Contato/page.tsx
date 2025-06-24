@@ -26,7 +26,6 @@ export default function Contato() {
       !nome.trim() ||
       !assunto.trim() ||
       !telefone.trim() ||
-      !linkedinUrl.trim() ||
       !email.trim() ||
       !mensagem.trim()
     ) {
