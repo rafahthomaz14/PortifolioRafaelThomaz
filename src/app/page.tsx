@@ -13,7 +13,7 @@ export default function Home() {
             <div className="flex flex-col lg:flex-row ">
                 <div className="lg:p-10  flex flex-col items-center justify-center lg:items-start lg:justify-start ">
                     <img src="Rafa.jpg" alt="" className="w-95 rounded-lg mb-2" />
-                    <a href="/Curriculo.pdf" download="Curriculo-Rafael-Thomaz.pdf" className=" flex flex-col  items-center justify-center  w-100">
+                    <a href="/Curriculo.pdf" download="Curriculo-Rafael-Thomaz.pdf" className=" flex flex-col  items-center justify-center  w-95">
                         <Button className="w-95 cursor-pointer">
                             Baixar Currículo
                         </Button>
