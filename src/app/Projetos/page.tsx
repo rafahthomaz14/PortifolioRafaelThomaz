@@ -37,6 +37,13 @@ export default function Projetos() {
                     </div>
                 </div>
 
+                <div className="flex flex-col items-center bg-gray-200 p-3 rounded-2xl ">
+                    <img src="./portifolio1.png" className="w-full h-full object-cover rounded-md" alt="Imagem 1" />
+                    <div className="flex w-[100%] justify-between">
+                        <Button className=" w-[49%] mt-2">Sobre</Button>
+                        <Button className=" w-[49%] mt-2"><a href="https://github.com/rafahthomaz14/Portifolio" target="_blank">GitHub</a></Button>
+                    </div>
+                </div>
 
 
             </div>
