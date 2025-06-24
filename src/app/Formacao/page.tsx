@@ -22,7 +22,7 @@ export default function Formacao() {
                     <Separator orientation="vertical" />
                     <div>Bacharelado</div>
                     <Separator orientation="vertical" />
-                    <div>Cursando - 06/2025 à 06/2028</div>
+                    <div>Cursando - 07/2025 à 07/2028</div>
                 </div>
             </div>
 
