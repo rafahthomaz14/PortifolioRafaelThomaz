@@ -32,11 +32,11 @@ const data = {
         },
         {
           title: "Tecnologias",
-          url: "#tecnologia",
+          url: "Tecnologia",
         },
         {
           title: "Contato",
-          url: "#contato",
+          url: "Contato",
         },
       ],
     },
